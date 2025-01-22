@@ -32,3 +32,13 @@ Web
 
 ## Negócios:
 - [ ] Faz os cursos do SEBRAE, fé.
+
+## Ferramentas
+- Linux, qualquer derivado de Debian ou Arch.
+- Git.
+- Sublime Text.
+- Drawio. (arquitetura de sistemas e mapas mentais).
+- Firefox (com extensão de highlighter).
+- Figma (design de interfaces).
+- Todoist + Relógio (ambos do flathub, as soluções nativas não são muito boas).
+- Shell bash.
