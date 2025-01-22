@@ -31,3 +31,4 @@ Web
 - [ ] Fundamentos da Engenharia de Dados, Joe Reis.
 
 ## Negócios:
+- [ ] Faz os cursos do SEBRAE, fé.
