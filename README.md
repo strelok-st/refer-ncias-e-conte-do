@@ -2,6 +2,12 @@
 ## Descrição:
 Criei esse repositório como um lembrete e rastreio de todo material conhecido por mim que me ajudou no caminho de me tornar um profissional qualificado. Copia, faz a tua versão, usa essa mesmo, tanto faz. Tá no mundo, do mundo será. kkkkkkk
 
+## Referências úteis:
+- Páginas WEB: https://mobbin.com/explore/web
+- Fonts: fonts.google.com
+- Assets: https://br.freepik.com/
+- Ícones: https://icons8.com/icons
+
 ## Tecnologias:
 ### Aprendizado (qualquer material serve, não se prende a esses não e são só os 20%); (eu falando comigo mesmo, o caps me aguarda kkkk)
 Web
