@@ -4,6 +4,7 @@ Criei esse repositório como um lembrete e rastreio de todo material conhecido p
 
 ## Referências úteis:
 - Páginas WEB: https://mobbin.com/explore/web
+- Layout de páginas web e referências: pinterest.com
 - Fonts: fonts.google.com
 - Assets: https://br.freepik.com/
 - Ícones: https://icons8.com/icons
